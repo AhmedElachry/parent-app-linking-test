@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nurserystory.parentapp2.cuk",
+      "sha256_cert_fingerprints": [
+        "3C:18:33:1A:A7:1A:2B:CF:66:FA:86:BB:23:2D:3B:DF:F0:DA:B0:C2:28:3C:7F:DE:1E:5A:59:49:93:89:22:C5"
+      ]
+    }
+  }]
